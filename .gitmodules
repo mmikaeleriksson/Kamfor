@@ -1,0 +1,3 @@
+[submodule "sqlitecxx"]
+	path = lib/sqlitecxx
+	url = https://github.com/MaLarsson/sqlitecxx
